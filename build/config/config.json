@@ -9,9 +9,9 @@
   "NFT_NAME": "AIPepe",
   "SYMBOL": "AIPEPE",
   "MAX_SUPPLY": 420,
-  "WEI_COST": 20000000000000000,
+  "WEI_COST": 6214470,
   "DISPLAY_COST": 0.02,
-  "GAS_LIMIT": 20000000,
+  "GAS_LIMIT": 205172,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/aipepes",
   "SHOW_BACKGROUND": true

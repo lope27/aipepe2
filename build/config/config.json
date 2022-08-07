@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0253e7A4E5a6616C3E28ee3112D9CD3decf4572B",
+  "SCAN_LINK": "https://etherscan.io/address/0x0253e7a4e5a6616c3e28ee3112d9cd3decf4572b",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "AIPepe",
+  "SYMBOL": "AIPEPE",
+  "MAX_SUPPLY": 420,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 20000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/aipepes",
+  "SHOW_BACKGROUND": true
+}
